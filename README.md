@@ -1,5 +1,5 @@
 # nopush_worklog
-a log of code work that hasnt been pushed to github, but still counts for 100 days of code.
+##a log of code work that hasnt been pushed to github, but still counts for 100 days of code.
 
 August 25, 2019 - Personal Branding seminar at LaunchCode 
 August 30, 2019 - Code challenge, codewars 
@@ -8,3 +8,5 @@ September 4, 2019 - LeetCode - Data Structures: Arrays
 September 10, 2019 - LeetCode - Data Structures
 September 11, 2019 - Formik
 September 16, 2019 - HackerRank: Interview 
+September 18, 2019 - HackerRank - 10 Days of Code
+September 18, 2019 - Interview Questions
