@@ -23,3 +23,4 @@ October 2, 2019 - Balanced Brackets - repl.it - https://repl.it/repls/HoneydewLo
 
 October 2, 2019 - Inserting a Node Into a Sorted Doubly Linked List - https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
 
+October 2, 2019 - Promise.all - https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/
