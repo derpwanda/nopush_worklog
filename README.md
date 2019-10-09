@@ -24,3 +24,7 @@ October 2, 2019 - Balanced Brackets - repl.it - https://repl.it/repls/HoneydewLo
 October 2, 2019 - Inserting a Node Into a Sorted Doubly Linked List - https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
 
 October 5, 2019 - Promise.all (Free Code Camp) - https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/
+
+October 8, 2019 - Women of Color: We Need You In Leadership. Here’s How to Get There. - https://elpha.com/posts/cy4fn51h/women-of-color-we-need-you-in-leadership-here-s-how-to-get-there
+
+October 8, 2019 - Don't Learn to Code, Learn to Think - https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
