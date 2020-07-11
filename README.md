@@ -28,3 +28,5 @@ October 5, 2019 - Promise.all (Free Code Camp) - https://www.freecodecamp.org/ne
 October 8, 2019 - Women of Color: We Need You In Leadership. Here’s How to Get There. - https://elpha.com/posts/cy4fn51h/women-of-color-we-need-you-in-leadership-here-s-how-to-get-there
 
 October 8, 2019 - Don't Learn to Code, Learn to Think - https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
+
+July 9 - 10, 2020 - Grokking Algorithms (finally got the physical book!)
